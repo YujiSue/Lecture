@@ -1,4 +1,4 @@
-# Google colabを用いた講義について（補則）
+# Google colabを用いた講義について（補足）
 
 ## 目次
 ## [1. Google colabの基本画面](#Google-colabの基本画面)  
