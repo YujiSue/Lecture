@@ -2,8 +2,8 @@
 
 ## 目次
 ## [1. Google colabの基本画面](#Google-colabの基本画面)
-## [2. よく使う機能](#よく使う機能)
-## [3. Pythonの実行と結果](#3.-Pythonの実行と結果)
+## [2. 講義でよく使う機能](#講義でよく使う機能)
+## [3. Pythonの実行と結果](#Pythonの実行と結果)
 
 # Google colabの基本画面
 ![画像](https://user-images.githubusercontent.com/25998652/82879273-ae27f400-9f77-11ea-9af9-83933e6acb48.png "Colabの基本画面") 
@@ -34,5 +34,8 @@
   一番下はファイルの保管状況です。  
 
 
-# よく使う機能
+# 講義でよく使う機能
+  ## 2-1. 改変したファイルの保存
+  ![画像](https://user-images.githubusercontent.com/25998652/82880921-ff38e780-9f79-11ea-839c-7e9ce0f76039.png "ファイルの保存画面") 
+  
 
