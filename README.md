@@ -7,7 +7,7 @@
 
 # Google colabの基本画面  
 
-<img src="https://drive.google.com/uc?export=view&is=1HqcmIbrkhCdDjrnhxSDxVqc1BF0VDlT3" alt="Colabの基本画面" width="75%">
+<img src="https://user-images.githubusercontent.com/25998652/82899186-8051a800-9f95-11ea-93a6-737c2bb41e85.png" alt="Colabの基本画面" width="50%">
 
   ### 1-1. アカウント情報
   現在ログインしているユーザアカウントです。  
@@ -35,15 +35,15 @@
 # Pythonの実行と結果  
   ## 2-1. Pythonは「コードセル」の左隣にあるボタンを押すと実行されます（下図、矢印）。  
 
-<img src="https://drive.google.com/uc?export=view&id=1mHIK54bTrD2FSoGH6ejaB92Ei-vHAh60" alt="実行前" width="75%">
+<img src="https://user-images.githubusercontent.com/25998652/82899182-7f207b00-9f95-11ea-9168-9e8f00308e0e.png" alt="実行前" width="50%">
   
   ## 2-2. 実行結果は「コードセル」下部に現れます（下図）。  
 
-<img src="https://drive.google.com/uc?export=view&id=1nas9EE-JMRi-RzE_nhqysTimq9iOo3j5" alt="実行後" width="75%">
+<img src="https://user-images.githubusercontent.com/25998652/82899180-7e87e480-9f95-11ea-8f4d-34adcefa0132.png" alt="実行後" width="50%">
 
 # 課題レポートの提出
   ## 3-1. 課題用ファイルの読み込み
-  原則として、指定されたリンクをたどってください。  
+  原則として、指定されたリンク([課題１回目](https://colab.research.google.com/github/YujiSue/Lecture/blob/master/TWMU_2020_S1_Lecture_01_report.ipynb), 課題２回目)をたどってください。  
   
   <span style="color: red;">※一部の環境でエラーが出る件について</span>  
   
@@ -57,7 +57,7 @@
 
   ## 3-2. 改変したファイルの保存  
   
-  <img src="https://drive.google.com/uc?export=view&id=1h9W_UIgBM0u3EMx-pbu2KJQGJoQ6C_Az" alt="ファイルの保存画面" width="75%">  
+  <img src="https://user-images.githubusercontent.com/25998652/82899184-7fb91180-9f95-11ea-8807-bb950b2ef81a.png" alt="ファイルの保存画面" width="50%">  
 
   （１）「メニューバー」から「ファイル」を選択  
   （２）「.ipynb」を保存する  
