@@ -1,11 +1,11 @@
 # Google colabを用いた講義について
 
 ## 目次
-## [1. Google colabの基本画面](#1.-Google-colabの基本画面)
-## [2. よく使う機能](#2.-よく使う機能)
+## [1. Google colabの基本画面](#Google-colabの基本画面)
+## [2. よく使う機能](#よく使う機能)
 ## [3. Pythonの実行と結果](#3.-Pythonの実行と結果)
 
-## 1. Google colabの基本画面
+# Google colabの基本画面
 ![画像](https://user-images.githubusercontent.com/25998652/82879273-ae27f400-9f77-11ea-9af9-83933e6acb48.png "Colabの基本画面") 
   
   ### 1-1. アカウント情報
@@ -34,4 +34,5 @@
   一番下はファイルの保管状況です。  
 
 
-## 2. よく使う機能
+# よく使う機能
+
