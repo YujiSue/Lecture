@@ -7,7 +7,7 @@
 
 # Google colabの基本画面  
 
-<img src="https://user-images.githubusercontent.com/25998652/82879273-ae27f400-9f77-11ea-9af9-83933e6acb48.png" alt="Colabの基本画面" width="75%">
+<img src="https://drive.google.com/uc?export=view&is=1HqcmIbrkhCdDjrnhxSDxVqc1BF0VDlT3" alt="Colabの基本画面" width="75%">
 
   ### 1-1. アカウント情報
   現在ログインしているユーザアカウントです。  
@@ -33,11 +33,13 @@
   一番下はファイルの保管状況です。  
 
 # Pythonの実行と結果  
-  ## 2-1. Pythonは「コードセル」の左隣にあるボタンを押すと実行されます（下図左、矢印）。  
-  ## 2-2. 実行結果は「コードセル」下部に現れます（下図右）。  
+  ## 2-1. Pythonは「コードセル」の左隣にあるボタンを押すと実行されます（下図、矢印）。  
 
-<img src="https://drive.google.com/uc?export=view&id=1mHIK54bTrD2FSoGH6ejaB92Ei-vHAh60" alt="実行前" width="45%">
-  <img src="https://drive.google.com/uc?export=view&id=1nas9EE-JMRi-RzE_nhqysTimq9iOo3j5" alt="実行後" width="45%">
+<img src="https://drive.google.com/uc?export=view&id=1mHIK54bTrD2FSoGH6ejaB92Ei-vHAh60" alt="実行前" width="75%">
+  
+  ## 2-2. 実行結果は「コードセル」下部に現れます（下図）。  
+
+<img src="https://drive.google.com/uc?export=view&id=1nas9EE-JMRi-RzE_nhqysTimq9iOo3j5" alt="実行後" width="75%">
 
 # 課題レポートの提出
   ## 3-1. 課題用ファイルの読み込み
@@ -68,3 +70,5 @@
   
   
   
+  
+
