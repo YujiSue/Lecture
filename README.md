@@ -6,7 +6,7 @@
 ## [3. Pythonの実行と結果](#3.-Pythonの実行と結果)
 
 ## 1. Google colabの基本画面
-![画像](https://drive.google.com/uc?export=view&id=1HqcmIbrkhCdDjrnhxSDxVqc1BF0VDlT3 "Colabの基本画面") 
+![画像](https://user-images.githubusercontent.com/25998652/82879273-ae27f400-9f77-11ea-9af9-83933e6acb48.png "Colabの基本画面") 
   
   ### 1-1. アカウント情報
   現在ログインしているユーザアカウントです。  
