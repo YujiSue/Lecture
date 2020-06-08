@@ -43,7 +43,7 @@
 
 # 課題レポートの提出
   ## 3-1. 課題用ファイルの読み込み
-  原則として、指定されたリンク([課題１回目](https://colab.research.google.com/github/YujiSue/Lecture/blob/master/TWMU_2020_S1_Lecture_01_report.ipynb), 課題２回目)をたどってください。  
+  原則として、指定されたリンク([課題１回目](https://colab.research.google.com/github/YujiSue/Lecture/blob/master/TWMU_2020_S1_Lecture_01_report.ipynb), [課題２回目](https://colab.research.google.com/github/YujiSue/Lecture/blob/master/TWMU_2020_s1_Lecture_02_report.ipynb))をたどってください。  
   
   <span style="color: red;">※一部の環境でエラーが出る件について</span>  
   
